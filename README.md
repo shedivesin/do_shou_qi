@@ -5,39 +5,37 @@ sticker paper, coloring them, and then sticking the stickers onto wooden
 pieces.
 
 ## How To Play
-1.  Each player has eight numbered pieces: a mouse (1), a cat (2), a dog (3), a
-    wolf (4), a leopard (5), a tiger (6), a lion (7), and an elephant (8). At
-    the beginning of the game, each piece sits on the appropriately-numbered
-    square on each player's side of the board.
+1.  Each player has eight numbered animals: a *rat* (1), a *cat* (2), a *dog*
+    (3), a *wolf* (4), a *leopard* (5), a *tiger* (6), a *lion* (7), and an
+    *elephant* (8). These animals start the game on the same-numbered square
+    on that player's side of the board.
 
-2.  Players alternate turns. A turn consists of moving a piece one square up,
-    down, left, or right. Diagonal moves are not allowed.
+2.  Players take turns moving an animal. Animals can move one square forward,
+    backward, left, or right, but not diagonally. However, you cannot move an
+    animal to repeat a prior state of the game.
 
-3.  If a piece moves onto an opponent's piece of a lesser or equal number, the
-    opponent's piece is captured and removed from play for the remainder of the
-    game. It is not allowed to move onto one's own piece or onto an opponent's
-    piece of a greater number.
+3.  The square marked with a crown is a *den*. Your animals cannot
+    move onto your own den, but you win if one of your animals moves onto your
+    opponent's den.
 
-    As an exception, the mouse can capture the elephant and the elephant
-    cannot capture the mouse. This is because elephants are afraid of mice!
+4.  Your animals cannot move onto the same square as another of your animals,
+    or onto an opponent's animal with a larger number; but if one of your
+    animals moves onto an opponent's animal with the same or a smaller number,
+    it is *captured* and removed from the game. As an exception, rats (1) can
+    capture elephants (8) instead of the reverse: this is because elephants are
+    afraid of rats!
 
-4.  The blue squares in the center of the board are rivers. Cats (2, 5, 6, 7)
-    hate water and the river is too deep and swift for an elephant (8), and so
-    they cannot move into those squares. Mice (1) and canines (3, 4) are strong
-    swimmers and so can move into the river squares: however, since they are
-    busy swimming, they cannot capture other pieces when moving into or out of
-    a water square.
+5.  The squares marked with ×'s are *traps*. A trapped animal may be captured
+    by any kind of animal as if its number were zero. (A trapped rat (1) may
+    even be captured by an elephant (8).)
 
-5.  The tiger (6) and lion (7) are very strong and are able to leap over a
-    river: the tiger can leap horizontally (e.g. over two squares) and the lion
-    can leap in either direction (e.g. over two squares or three squares).
-    However, as they are frightened of the water, they cannot leap over a
-    swimming animal.
+6.  The blue squares in the middle of the board are *rivers*. Animals cannot
+    move onto a river. As an exception, rats (1) are very good swimmers and can
+    move on rivers, but cannot capture when moving onto or off of a river.
 
-6.  The squares marked with X's are traps. Any piece on a trap square can be
-    captured by any other piece as if it's number was zero. (A trapped mouse
-    may even be captured by an elephant.)
-
-7.  The square marked with a crown is a den. Your pieces are not allowed to
-    move into your own den, and you win the game if you move any piece into
-    your opponent's den.
+7.  Tigers (6) and lions (7) are very strong and can jump in a straight
+    line over a river in a single move: tigers (6) can jump horizontally over
+    two river squares, and lions (7) can jump in either direction over up to
+    three river squares. These animals can even capture another animal when
+    jumping; however, they are too afraid of the water to jump over a swimming
+    animal.

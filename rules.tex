@@ -1,0 +1,51 @@
+\documentclass[12pt]{article}
+\usepackage{fontspec}
+\usepackage{microtype}
+\setmainfont[Ligatures=TeX,Numbers=Lowercase]{EB Garamond}
+\pagenumbering{gobble}
+
+\title{Animal Chess\\\textit{(Do Shou Qi)}}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+\item Each player has eight numbered animals: a \textit{rat} (1), a
+\textit{cat} (2), a \textit{dog} (3), a \textit{wolf} (4), a \textit{leopard}
+(5), a \textit{tiger} (6), a \textit{lion} (7), and an \textit{elephant} (8).
+These animals start the game on the same-numbered square on that player's side
+of the board.
+
+\item Players take turns moving an animal. Animals can move one square forward,
+backward, left, or right, but not diagonally. However, you cannot move an
+animal to repeat a prior state of the game.
+
+\item The square marked with a crown is a \textit{den}. Your animals cannot
+move onto your own den, but you win if one of your animals moves onto your
+opponent's den.
+
+\item Your animals cannot move onto the same square as another of your animals,
+or onto an opponent's animal with a larger number; but if one of your animals
+moves onto an opponent's animal with the same or a smaller number, it is
+\textit{captured} and removed from the game. As an exception, rats (1) can
+capture elephants (8) instead of the reverse: this is because elephants are
+afraid of rats!
+
+\item The squares marked with $\times$'s are \textit{traps}. A trapped animal
+may be captured by any kind of animal as if its number were zero. (A trapped
+rat (1) may even be captured by an elephant (8).)
+
+\item The blue squares in the middle of the board are \textit{rivers}. Animals
+cannot move onto a river. As an exception, rats (1) are very good swimmers
+and can move on rivers, but cannot capture when moving onto or off of a river.
+
+\item Tigers (6) and lions (7) are very strong and can jump in a straight
+line over a river in a single move: tigers (6) can jump horizontally over
+two river squares, and lions (7) can jump in either direction over up to three
+river squares. These animals can even capture another animal when jumping;
+however, they are too afraid of the water to jump over a swimming animal.
+\end{enumerate}
+
+\end{document}
